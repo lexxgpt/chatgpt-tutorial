@@ -126,4 +126,4 @@ A：首要成因系“残留Plus订阅”。排除后，检JSON完整性，或�
 
 ## 尾声
 
-摒弃纠结的支付壁垒，拥抱AI赋能的便捷时代。借助本指南的代充卡密路径（[https://t.3ms.run/gptcz](https://t.3ms.run/gptcz)），中国大陆用户亦可从容、安全接入ChatGPT Plus。愿此文助您破除藩篱，迅捷踏上智能探索之路。
+摒弃纠结的支付壁垒，拥抱AI赋能的便捷时代。借助本指南的代充卡密路径（[https://t.3ms.run/gptcz](https://t.3ms.run/gptcz)），中国大陆用户亦可从容、安全接入ChatGPT Plus。愿此文助您破除藩篱，迅捷踏上智能探索之路
